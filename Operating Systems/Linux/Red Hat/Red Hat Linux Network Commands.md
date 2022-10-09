@@ -6,3 +6,6 @@ Use the NetworkManager that provides a GUI to set the IP configuration for your 
 ```bash
 sudo nmtui
 ```
+
+## IP command Cheat Sheet
+[Red Hat IP Command Cheat Sheet](rh_ip_command_cheatsheet.pdf)

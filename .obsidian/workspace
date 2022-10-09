@@ -7,16 +7,24 @@
         "id": "e6f501624c1d2822",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Operating Systems/Linux/Red Hat/Red Hat Linux Network Commands.md",
+            "mode": "source",
+            "source": false
+          }
         }
       },
       {
-        "id": "23f2fa7fde451086",
+        "id": "2f03b28d6c3ff71e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Operating Systems/Linux/Red Hat/Red Hat Linux Network Commands.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Operating Systems/Linux/Red Hat/Red Hat Linux Network Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Operating Systems/Linux/Red Hat/Red Hat Linux Network Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Operating Systems/Linux/Red Hat/Red Hat Linux Network Commands.md"
+              }
             }
           }
         ]
@@ -130,15 +142,15 @@
   },
   "active": "e6f501624c1d2822",
   "lastOpenFiles": [
-    "Operating Systems/Linux/Debian/Debian Linux General Commands.md",
     "Operating Systems/Linux/Linux Network Commands.md",
+    "Operating Systems/Linux/Red Hat/Red Hat Linux Network Commands.md",
+    "assets/rh_ip_command_cheatsheet.pdf",
+    "Operating Systems/Linux/Debian/Debian Linux General Commands.md",
     "Operating Systems/Linux/Linux General Commands.md",
     "Operating Systems/Linux/Red Hat/Red Hat Linux General Command.md",
-    "Operating Systems/Linux/Red Hat/Red Hat Linux Network Commands.md",
     "Operating Systems/Linux/Debian/Debian Linux Network Commands.md",
     "linux-network-commands.md",
     "Linux Network Commands.md",
-    "Linux.md",
-    "Operating Systems/Linux/linux-network-commands.md"
+    "Linux.md"
   ]
 }
