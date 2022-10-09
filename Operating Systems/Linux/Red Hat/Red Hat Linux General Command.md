@@ -1,5 +1,5 @@
 # Red Hat Enterprise Linux General Commands
-See: [[Linux General Commands]]
+See: [Linux General Commands](<../Linux General Commands.md>)
 
 ## Install Packages
 ```bash

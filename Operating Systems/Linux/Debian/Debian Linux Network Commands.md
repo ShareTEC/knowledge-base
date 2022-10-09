@@ -1,5 +1,5 @@
 # Debian Linux Network Commands
-See: [[Linux Network Commands]]
+See: [Linux Network Commands](<../Linux Network Commands.md>)
 
 ## Store IP Configuration
 ### Legacy way 'ifupdown'

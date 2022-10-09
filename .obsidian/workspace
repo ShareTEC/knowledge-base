@@ -7,24 +7,16 @@
         "id": "e6f501624c1d2822",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Operating Systems/Linux/Debian/Debian Linux Network Commands.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       },
       {
         "id": "23f2fa7fde451086",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Operating Systems/Linux/Debian/Debian Linux Network Commands.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -89,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/Linux/Debian/Debian Linux Network Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/Linux/Debian/Debian Linux Network Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Operating Systems/Linux/Debian/Debian Linux Network Commands.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,8 +133,12 @@
     "Operating Systems/Linux/Debian/Debian Linux General Commands.md",
     "Operating Systems/Linux/Linux Network Commands.md",
     "Operating Systems/Linux/Linux General Commands.md",
-    "Operating Systems/Linux/Red Hat/Red Hat Linux Network Commands.md",
     "Operating Systems/Linux/Red Hat/Red Hat Linux General Command.md",
-    "Operating Systems/Linux/Debian/Debian Linux Network Commands.md"
+    "Operating Systems/Linux/Red Hat/Red Hat Linux Network Commands.md",
+    "Operating Systems/Linux/Debian/Debian Linux Network Commands.md",
+    "linux-network-commands.md",
+    "Linux Network Commands.md",
+    "Linux.md",
+    "Operating Systems/Linux/linux-network-commands.md"
   ]
 }
