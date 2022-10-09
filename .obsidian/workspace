@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "94342c2a67e8ce22",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6f501624c1d2822",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Operating Systems/Linux/Debian/Debian Linux Network Commands.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "23f2fa7fde451086",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Operating Systems/Linux/Debian/Debian Linux Network Commands.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "528008775d803621",
+    "type": "split",
+    "children": [
+      {
+        "id": "03418bc31a658ad7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec7e2ef345422fc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "50fc953deaee9b92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "174cb35ffa805528",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c186189afb6537a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bc1f3d926018402",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d8c0831751e38ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Operating Systems/Linux/Debian/Debian Linux Network Commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "684913037388380a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Operating Systems/Linux/Debian/Debian Linux Network Commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b9143dcbe824aed1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fb581710f5e2871f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Operating Systems/Linux/Debian/Debian Linux Network Commands.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "23f2fa7fde451086",
+  "lastOpenFiles": [
+    "Operating Systems/Linux/Red Hat/Red Hat Linux Network Commands.md",
+    "Operating Systems/Linux/Debian/Debian Linux Network Commands.md",
+    "Operating Systems/Linux/Red Hat/Red Hat Linux General Command.md",
+    "Operating Systems/Linux/Debian/Debian Linux General Commands.md",
+    "Operating Systems/Linux/Linux Network Commands.md",
+    "Operating Systems/Linux/Linux General Commands.md"
+  ]
+}
