@@ -1,13 +1,11 @@
 # Debian Linux General Commands
 See: [[Linux General Commands]]
 
----
 ## Install Packages
 ```bash
 sudo apt install <packagename>
 ```
   
-
 **Example Packages**
 - **openssh-server**: SSH server
 - **tcpdump**: network tool to capture incoming and outgoing packets on an interface  
@@ -22,12 +20,12 @@ Login as *root* user or use su --login
 ```bash
 apt install sudo
 ```
----
+
 ## Add a User to the sudo group
 ```bash
 adduser <loginname> sudo
 ```
----
+
 ## Get Command Info
 ```bash
 man <command>
@@ -37,7 +35,7 @@ man <command>
 ```bash
 man ip-address
 ```
----
+
 ## Download Content from Web
 ```bash
 wget <url>

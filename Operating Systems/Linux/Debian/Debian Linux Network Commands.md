@@ -1,7 +1,6 @@
 # Debian Linux Network Commands
 See: [[Linux Network Commands]]
 
----
 ## Store IP Configuration
 ### Legacy way 'ifupdown'
 1. Edit interfaces file. Set static IP-address and gateway
@@ -66,18 +65,6 @@ sudo systemctl enable --now systemd-networkd
 sudo networkctl reload
 ```
 
-##### List Network Interfaces
-
-```bash
-networkctl list
-```
-
-##### Get Status of Network Interface (IP + Gateway)
-
-```bash
-networkctl status
-```
-
 ### Rename Network Interfaces
 1. Create a "<2 digits preferably>-<name_of_your_choice>**.link**" config file in `/etc/systemd/network` (more info: `man systemd.link`)
 
@@ -101,14 +88,24 @@ AlternativeName=eth0
 ```bash
 sudo systemctl restart systemd-udev-trigger.service
 ```
----
+
+## List Network Interfaces
+
+```bash
+networkctl list
+```
+
+## Get Status of Network Interface (IP + Gateway)
+
+```bash
+networkctl status
+```
 
 ## Check DNS Server
 
 ```bash
 sudo nano /etc/resolv.conf
 ```
----
 
 ## Regenerate host keys
 
@@ -124,7 +121,6 @@ sudo rm /etc/ssh/ssh_host_*
 ```bash
 sudo dpkg-reconfigure openssh-server
 ```
----
 
 ## Changing the hostname
 
